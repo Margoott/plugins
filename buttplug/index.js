@@ -1,0 +1,1 @@
+(function(e,t,n){"use strict";const{FormText:o}=n.Forms;function u(){return React.createElement(o,null,"Buttplug :3 (WIP)")}var l={onLoad:function(){t.logger.log("Buttplug plugin loaded!")},onUnload:function(){t.logger.log("Goodbye, world.")},settings:u};return e.default=l,Object.defineProperty(e,"__esModule",{value:!0}),e})({},vendetta,vendetta.ui.components);
