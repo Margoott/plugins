@@ -1,0 +1,14 @@
+{
+    "name": "Buttplug",
+    "description": "Discord go BRRRRRRR (port of https://github.com/KaydaFox/vencord-buttplugio)",
+    "authors": [
+        {
+            "name": "Mopigames",
+            "id": "1022189106614243350"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
